@@ -1,5 +1,6 @@
 # TokenTrackr 
 - Subgraph repository: https://github.com/ishola-faazele/TokenTrackr-subgraph
+- Subgraph link(graph studio): https://testnet.thegraph.com/explorer/subgraphs/CYqbrFyYv7gHtc5tjwdEkJm9FehmHH5KLHHjZHgY63S5?view=About&chain=arbitrum-sepolia
 - Web app link: https://tokentrackr.vercel.app/
 - Web app repository: https://github.com/ishola-faazele/my-graphql-app
   
